@@ -22,11 +22,10 @@ The script will loop through all the stocks for one year and output the followin
 After running the script on the Workbook, the result should look as follows:
 
 #### 2014 Analysis Data
+![alt text](https://github.com/saif-gorges/VBA-challenge/blob/master/VBA%20of%20Wallstreet%202014.PNG)
 
-#### Image of 2014 Analysis
-2015 Analysis Data
+#### 2015 Analysis Data
+![alt text](https://github.com/saif-gorges/VBA-challenge/blob/master/VBA%20of%20Wallstreet%202015.PNG)
 
-#### Image of 2015 Analysis
-2016 Analysis Data
-
-#### Image of 2016 Analysis
+#### 2016 Analysis Data
+![alt text](https://github.com/saif-gorges/VBA-challenge/blob/master/VBA%20of%20Wallstreet%202016.PNG)
