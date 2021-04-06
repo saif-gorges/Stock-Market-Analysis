@@ -17,16 +17,16 @@ The script will loop through all the stocks for one year and output the followin
 
 - The script will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
-- Analysis Result
+## Analysis Result
 
-- After running the script on the Workbook, the result should look as follows:
+After running the script on the Workbook, the result should look as follows:
 
-2014 Analysis Data
+#### 2014 Analysis Data
 
-Image of 2014 Analysis
+#### Image of 2014 Analysis
 2015 Analysis Data
 
-Image of 2015 Analysis
+#### Image of 2015 Analysis
 2016 Analysis Data
 
-Image of 2016 Analysis
+#### Image of 2016 Analysis
