@@ -1,4 +1,4 @@
-# VBA CHALLENGE
+# Stock Market Analysis
 
 ## About this project
 
